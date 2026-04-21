@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Rohith Yenuganti 👋
 
-<!--
-**RohithYtech77/rohithytech77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Engineer | 6+ Years | AWS • GCP • Azure
 
-Here are some ideas to get you started:
+I build scalable data pipelines, ETL workflows, and cloud data platforms
+that process millions of records daily for analytics and ML teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+| Area | Tools |
+|------|-------|
+| Languages | Python, PySpark, SQL, Scala |
+| Cloud | AWS (Glue, S3, Redshift, Athena, Airflow), GCP (BigQuery, Dataflow), Azure (ADF, Synapse) |
+| Data Engineering | Snowflake, dbt, Apache Airflow, Apache Kafka, Delta Lake, Parquet |
+| DevOps | Terraform, Docker, GitHub Actions, CI/CD |
+
+---
+
+### 📂 Featured Projects
+
+- 🔷 [Financial Data Pipeline — AWS Glue, S3, Snowflake, Airflow](link)
+- 🔷 [Legacy ETL Migration — Snowflake + dbt + Great Expectations](link)
+- 🔷 [ML-Ready Data Pipeline — PySpark, AWS, Snowflake](link)
+
+---
+
+### 📫 Contact
+- 💼 [LinkedIn](https://www.linkedin.com/in/rohith-y-tech/)
+- 📧 rohithytech77@gmail.com
