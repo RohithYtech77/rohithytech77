@@ -28,6 +28,4 @@ that process millions of records daily for analytics and ML teams.
 
 ---
 
-### 📫 Contact
-- 💼 [LinkedIn](https://www.linkedin.com/in/rohith-y-tech/)
-- 📧 rohithytech77@gmail.com
+
