@@ -1,6 +1,6 @@
 # Hi, I'm Rohith Yenuganti 👋
 
-### Data Engineer | 6+ Years | AWS • GCP • Azure
+### Data Engineer | AWS • GCP • Azure
 
 I build scalable data pipelines, ETL workflows, and cloud data platforms
 that process millions of records daily for analytics and ML teams.
